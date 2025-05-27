@@ -1,2 +1,0 @@
-create file1
-modify file1 add a role line
